@@ -1,0 +1,230 @@
+{
+  "Products": [
+    {
+      "productName": "Keurig® K-Elite® Single Serve Coffee Maker",
+      "productImage": "SingleServe/single-serve.png",
+      "dealPrice": "$189.99 with Keurig® Starter Kit",
+      "productPrice": "49.99",
+      "sitePrice": "118.99",
+      "sitePriceDetail": "$189.99 Site deal: $71.00 Off",
+      "reviewImage": "SingleServe/single-serve-stars.png",
+      "bannerText": "$140 OFF WHEN YOU BUILD A KIT"
+    },
+    {
+      "productName": "Keurig® K-Select® Coffee Make",
+      "productImage": "K-Select/K-SelectCoffee.png",
+      "dealPrice": "$149.99with Keurig® Starter Kit",
+      "productPrice": "FREE",
+      "sitePrice": "69.99",
+      "sitePriceDetail": "$149.99 Site deal: $80.00 Off",
+      "reviewImage": "K-Select/K-SelectCoffee-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Mini® Single Serve Coffee Maker",
+      "productImage": "K-Mini/K-Mini.png",
+      "productPrice": "71.99",
+      "dealPrice": "$89.99 Site deal: $18.00 Off",
+      "reviewImage": "K-Mini/K-Mini-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Café® SMART Single Serve Coffee Maker",
+      "productImage": "KSmart/KSmart.png",
+      "productPrice": "124.99",
+      "dealPrice": "$249.99 with Keurig® Starter Kit",
+      "sitePrice": "249.99",
+      "sitePriceDetail": "$149.99 Site deal: $80.00 Off",
+      "reviewImage": "KSmart/KSmart-stars.png",
+      "coupon": true,
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "K-Slim® Single Serve Coffee Maker",
+      "productImage": "KSlim/KSlim.png",
+      "productPrice": "FREE",
+      "dealPrice": "$129.99 with Keurig® Starter Kit",
+      "sitePrice": "79.99",
+      "sitePriceDetail": "$129.99 Site deal: $50.00 Off",
+      "reviewImage": "KSlim/KSlim-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Duo® Single Serve & Carafe Coffee Maker",
+      "productImage": "KDuoSingle/KDuoSingle.png",
+      "productPrice": "94.99",
+      "dealPrice": "$189.99 with Keurig® Starter Kit",
+      "sitePrice": "119.99",
+      "sitePriceDetail": "$189.99 Site deal: $70.00 Off",
+      "reviewImage": "KDuoSingle/KDuoSingle-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Duo Plus® Single Serve & Carafe Coffee Maker",
+      "productImage": "KDuoPlus/KDuoPlus.png",
+      "productPrice": "114.99",
+      "dealPrice": "$229.99 with Keurig® Starter Kit",
+      "sitePrice": "183.99",
+      "sitePriceDetail": "$229.99 Site deal: $46.00 Off",
+      "reviewImage": "KDuoPlus/KDuoPlus-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Iced™ Single Serve Coffee Maker",
+      "productImage": "KIced/KIced.png",
+      "productPrice": "49.99",
+      "dealPrice": "$99.99 with Keurig® Starter Kit",
+      "sitePrice": "59.99",
+      "sitePriceDetail": "$99.99 Site deal: $40.00 Off",
+      "reviewImage": "KIced/KIced-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Duo® Special Edition Single Serve & Carafe Coffee Maker",
+      "productImage": "KDuoSpecial/KDuoSpecial.png",
+      "productPrice": "99.99",
+      "dealPrice": "$199.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KDuoSpecial/KDuoSpecial-stars.png",
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "Keurig® K-Café® Barista Bar Single Serve Coffee Maker",
+      "productImage": "KBarista/KBarista.png",
+      "productPrice": "69.99",
+      "dealPrice": "$139.99 with Keurig® Starter Kit",
+      "sitePrice": "99.99",
+      "sitePriceDetail": "$139.99 Site deal: $40.00 Off",
+      "reviewImage": "KBarista/KBarista-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "Keurig® K-Classic® Coffee Maker",
+      "productImage": "KClassic/KClassic.png",
+      "productPrice": "74.99",
+      "dealPrice": "$149.99 with Keurig® Starter Kit",
+      "sitePrice": "119.99",
+      "sitePriceDetail": "$149.99 Site deal: $30.00 Off",
+      "reviewImage": "KClassic/KClassic-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "Keurig® K-Supreme® Single Serve Coffee Maker",
+      "productImage": "KSupremeSingle/KSupremeSingle.png",
+      "productPrice": "84.99",
+      "dealPrice": "$169.99 with Keurig® Starter Kit",
+      "sitePrice": "135.99",
+      "sitePriceDetail": "$169.99 Site deal: $34.00 Off",
+      "reviewImage": "KSupremeSingle/KSupremeSingle-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Supreme Plus® SMART Single Serve Coffee Maker",
+      "productImage": "KSupremePlus/KSupremePlus.png",
+      "productPrice": "114.99",
+      "dealPrice": "$229.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KSupremePlus/KSupremePlus-stars.png",
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "K-Café® Special Edition Single Serve Coffee Latte",
+      "productImage": "KCafeSpecial/KCafeSpecial.png",
+      "productPrice": "99.99",
+      "dealPrice": "$199.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KCafeSpecial/KCafeSpecial-stars.png",
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "K-Supreme® SMART Single Serve Coffee Maker",
+      "productImage": "KSupremeSmart/KSupremeSmart.png",
+      "productPrice": "89.99",
+      "dealPrice": "$179.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KSupremeSmart/KSupremeSmart-stars.png",
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "K-Café® Single Serve Coffee Latte & Cappuccino Maker",
+      "productImage": "KCafeSingle/KCafeSingle.png",
+      "productPrice": "94.99",
+      "dealPrice": "$189.99 with Keurig® Starter Kit",
+      "sitePrice": "151.99",
+      "sitePriceDetail": "$189.99 Site deal: $38.00 Off",
+      "reviewImage": "KCafeSingle/KCafeSingle-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "K-Supreme Plus® Single Serve Coffee Maker",
+      "productImage": "KSupremePlusSingle/KSupremePlusSingle.png",
+      "productPrice": "109.99",
+      "dealPrice": "$219.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KSupremePlusSingle/KSupremePlusSingle-stars.png",
+      "bannerText": "SAVE 50% BY BUILDING A KIT"
+    },
+    {
+      "productName": "K-Mini Plus® Single Serve Coffee Maker",
+      "productImage": "KMiniSingle/KMiniSingle.png",
+      "productPrice": "FREE",
+      "dealPrice": "$109.99 with Keurig® Starter Kit",
+      "coupon": true,
+      "reviewImage": "KMiniSingle/KMiniSingle-stars.png",
+      "bannerText": "FREE WHEN YOU BUILD A KIT"
+    },
+    {
+      "productName": "Keurig® K-Compact® Coffee Maker - Gray",
+      "productImage": "KCompactG/KCompactG.png",
+      "productPrice": "50.00",
+      "dealPrice": "$99.99 Site deal: $49.99 Off",
+      "reviewImage": "KCompactG/KCompactG-stars.png",
+      "bannerText": "BIG OUTLET SAVINGS"
+    },
+    {
+      "productName": "Keurig® K-Compact® Coffee Maker - White",
+      "productImage": "KCompactW/KCompactW.png",
+      "productPrice": "50.00",
+      "dealPrice": "$99.99 Site deal: $49.99 Off",
+      "reviewImage": "KCompactW/KCompactW-stars.png",
+      "bannerText": "BIG OUTLET SAVINGS"
+    },
+    {
+      "productName": "K-Express™ Single Serve Coffee Maker",
+      "productImage": "KExpress/KExpress.png",
+      "productPrice": "90.00",
+      "dealPrice": "$109.99 Site deal: $49.99 Off",
+      "sitePrice": "151.99",
+      "sitePriceDetail": "$189.99 Site deal: $38.00 Off",
+      "reviewImage": "KExpress/KExpress-stars.png",
+      "bannerText": "NEW"
+    },
+    {
+      "productName": "K-Slim + ICED™ Single Serve Coffee Maker",
+      "productImage": "KSlimIced/KSlimIced.png",
+      "productPrice": "64.99",
+      "dealPrice": "$129.99 with Keurig® Starter Kit",
+      "sitePrice": "103.99",
+      "sitePriceDetail": "$129.99 Site deal: $26.00 Off",
+      "reviewImage": "KSlimIced/KSlimIced-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "Keurig® K-Compact® Coffee Maker",
+      "productImage": "KCompact/KCompact.png",
+      "productPrice": "99.99",
+      "dealPrice": "$129.99 with Keurig® Starter Kit",
+      "reviewImage": "KCompact/KCompact-stars.png",
+      "bannerText": "NEW LOW SALE PRICE"
+    },
+    {
+      "productName": "Keurig® K155 OfficePRO® Premier Brewing System",
+      "productImage": "K115/K115.png",
+      "productPrice": "294.95",
+      "dealPrice": "$299.99 with Keurig® Starter Kit",
+      "reviewImage": "K115/K115-stars.png",
+      "bannerText": "FOR BUSINESS"
+    }
+  ],
+  "Cart": []
+}

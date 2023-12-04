@@ -1,0 +1,16 @@
+# General
+.DS_Store
+# Files that might appear in the root of a volume
+
+.Trashes
+# node_modules
+
+/node_modules
+#vs code
+
+.vscode
+.npm
+# project
+
+/css/styles.css.map
+.prepros

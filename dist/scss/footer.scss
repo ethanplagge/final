@@ -1,0 +1,86 @@
+footer{
+  width: 95%;
+  height: 570px;
+  margin: 0 auto;
+  margin-top: 20px;
+  .footer-banner{
+    height: 60px;
+    background-color: #3b2b2f;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    .find-store{
+      width: 40%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      color: white;
+      font-size: 20px;
+      p{
+        margin-top: 18px;
+        margin-left: 10px;
+        font-size: 14px;
+      }
+    }
+    .follow-us{
+      width: 30%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      color: white;
+      font-size: 20px;
+      i{
+        margin-right: 20px;
+      }
+      p{
+        margin-top: 18px;
+        margin-left: 10px;
+        font-size: 14px;
+        margin-right: 20px;
+      }
+    }
+  }
+  .footer-info{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-bottom: 1px solid #888;
+    .footer-info-col{
+      height: 100%;
+      width: 22%;
+      h2{
+        font-weight: 100;
+        margin-bottom: 20px;
+      }
+      p{
+        font-weight: 50;
+      }
+      input{
+        margin-top: 20px;
+        height: 30px;
+        padding-left: 10px;
+        border-radius: 5px;
+      }
+      button{
+        height: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 5px;
+        border: none;
+        margin-bottom: 25px;
+      }
+    }
+  }
+  .footer-terms{
+    height: 25px;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #888;
+    text-align: center;
+  }
+}
